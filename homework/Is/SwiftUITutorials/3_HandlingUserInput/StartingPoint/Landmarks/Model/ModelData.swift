@@ -8,7 +8,7 @@ Storage for model data.
 import Foundation
 import Combine
 
-final class ModalData: ObservableObject {
+final class ModelData: ObservableObject {
     @Published var landmarks: [Landmark] = load("landmarkData.json")
 }
 
