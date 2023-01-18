@@ -1,5 +1,8 @@
 참고한 사이트
 
+- KAKAO rest API local 사이트
+  - https://developers.kakao.com/docs/latest/ko/local/dev-guide
+
 - info.plist가 안보이는데??
   - https://velog.io/@januaryone/SwiftUI%EC%97%90%EC%84%9C-info.plist%EA%B0%80-%EB%88%84%EB%9D%BD%EB%90%9C-%EB%AC%B8%EC%A0%9C
 - corelocation 사용하기
