@@ -8,9 +8,11 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var modelData: ModelData
+
     var body: some View {
         VStack {
-            MapView()
+            PinAnnotationMapView(cafes: modelData.cafes)
             Text("Hello, world!")
         }
         .padding()

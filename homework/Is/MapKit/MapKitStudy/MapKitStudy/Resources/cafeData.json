@@ -1,0 +1,98 @@
+[
+    {
+        "address": "서울 종로구 세종대로 167 현대해상본사사옥 별관내 (우)03183",
+        "name": "마호가니 SFC점",
+        "openingInfo": "월~금 08:00 ~ 22:00",
+        "id": 1476399332,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.977741730038,
+            "latitude": 37.5684260049912
+        },
+        "description": "음식점 > 카페. http://place.map.kakao.com/1476399332"
+    },
+    {
+        "address": "서울 중구 세종대로 135",
+        "name": "폴바셋 코리아나호텔점",
+        "openingInfo": "월~금 07:30 ~ 22:00",
+        "id": 19338551,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.97673783576289,
+            "latitude": 37.5680158584221
+        },
+        "description": "음식점 > 카페 > 커피전문점 > 폴바셋. http://place.map.kakao.com/19338551"
+    },
+    {
+        "address": "서울 중구 무교로 16",
+        "name": "카페마마스 시청점",
+        "openingInfo": "없음",
+        "id": 13491657,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 126.97936863256702,
+            "latitude": 37.56726852099406
+        },
+        "description": "음식점 > 카페 > 카페마마스. http://place.map.kakao.com/13491657"
+    },
+    {
+        "address": "서울 중구 세종대로 124",
+        "name": "스타벅스 한국프레스센터점",
+        "openingInfo": "수~금 07:00 ~ 20:00",
+        "id": 27557389,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.97788238985001,
+            "latitude": 37.567409708254644
+        },
+        "description": "음식점 > 카페 > 커피전문점 > 스타벅스. http://place.map.kakao.com/27557389"
+    },
+    {
+        "address": "서울 중구 무교로 21",
+        "name": "스타벅스 무교동점",
+        "openingInfo": "매일 07:00 ~ 21:00",
+        "id": 8403570,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.978896422532,
+            "latitude": 37.5679865311548
+        },
+        "description": "음식점 > 카페 > 커피전문점 > 스타벅스. http://place.map.kakao.com/8403570"
+    },
+    {
+        "address": "서울 중구 무교로 6",
+        "name": "투썸플레이스 서울시청점",
+        "openingInfo": "월~금 08:00 ~ 23:00",
+        "id": 26909855,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 126.97942435079078,
+            "latitude": 37.566343207936285
+        },
+        "description": "음식점 > 카페 > 커피전문점 > 투썸플레이스. http://place.map.kakao.com/26909855"
+    },
+    {
+        "address": "서울 중구 세종대로 136",
+        "name": "다만프레르 SFC점",
+        "openingInfo": "월~금 08:00 ~ 22:00",
+        "id": 27470558,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.97828506290259,
+            "latitude": 37.56840358128757
+        },
+        "description": "음식점 > 카페. http://place.map.kakao.com/27470558"
+    },
+    {
+        "address": "서울 중구 을지로1길 15",
+        "name": "공차 시청점",
+        "openingInfo": "월~금 08:00 ~ 22:00",
+        "id": 20245443,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 126.979725312673,
+            "latitude": 37.5667973619526
+        },
+        "description": "음식점 > 카페 > 커피전문점 > 스타벅스. http://place.map.kakao.com/20245443"
+    }
+]
