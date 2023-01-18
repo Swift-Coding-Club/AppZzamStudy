@@ -6,3 +6,10 @@
   - https://leemyungjic.tistory.com/16
 - SwiftUI에서 CLLocation 기반 Map 띄우기
   - https://codewithchris.com/swiftui/swiftui-corelocation/
+
+- MapMarker
+  - https://developer.apple.com/documentation/mapkit/mapmarker
+
+- MapMarker + Navigation
+  - https://stackoverflow.com/questions/73892561/how-to-re-render-swiftui-map-with-mapannotation-without-runtime-warnings-for-un
+  - https://stackoverflow.com/questions/68929989/how-can-i-detect-when-a-mapmarker-is-clicked-tapped
