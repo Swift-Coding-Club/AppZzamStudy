@@ -9,7 +9,12 @@ import MapKit
 import CoreLocation
 
 class LocationManager: NSObject, ObservableObject {
-    @Published var region = MKCoordinateRegion()
+    @Published var region = MKCoordinateRegion(
+        center: CLLocationCoordinate2D(
+            latitude: 37.567,
+            longitude: 126.97806),
+        span: MKCoordinateSpan(latitudeDelta: 0.005, longitudeDelta: 0.005)
+    )
     private let manager = CLLocationManager()
 
     override init() {

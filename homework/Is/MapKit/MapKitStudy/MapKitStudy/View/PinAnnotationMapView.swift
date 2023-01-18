@@ -22,8 +22,8 @@ struct PinAnnotationMapView: View {
     }
 }
 
-//struct PinAnnotationMapView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        PinAnnotationMapView()
-//    }
-//}
+struct PinAnnotationMapView_Previews: PreviewProvider {
+    static var previews: some View {
+        PinAnnotationMapView(cafes: ModelData().cafes)
+    }
+}

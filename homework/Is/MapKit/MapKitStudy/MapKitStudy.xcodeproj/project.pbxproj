@@ -18,6 +18,8 @@
 		B21936672977E4BF008F871A /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21936662977E4BF008F871A /* ModelData.swift */; };
 		B219366E2977E59B008F871A /* cafeData.json in Resources */ = {isa = PBXBuildFile; fileRef = B219366D2977E59B008F871A /* cafeData.json */; };
 		B21936702977E5CB008F871A /* Cafe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B219366F2977E5CB008F871A /* Cafe.swift */; };
+		B21936722978085C008F871A /* PinAnnotationNavigationMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21936712978085C008F871A /* PinAnnotationNavigationMapView.swift */; };
+		B2193674297809E8008F871A /* CafeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2193673297809E8008F871A /* CafeDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		B21936662977E4BF008F871A /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		B219366D2977E59B008F871A /* cafeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cafeData.json; sourceTree = "<group>"; };
 		B219366F2977E5CB008F871A /* Cafe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cafe.swift; sourceTree = "<group>"; };
+		B21936712978085C008F871A /* PinAnnotationNavigationMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinAnnotationNavigationMapView.swift; sourceTree = "<group>"; };
+		B2193673297809E8008F871A /* CafeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CafeDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				B21936442977B727008F871A /* ContentView.swift */,
 				B21936502977B767008F871A /* MapView.swift */,
 				B21936612977E3C6008F871A /* PinAnnotationMapView.swift */,
+				B21936712978085C008F871A /* PinAnnotationNavigationMapView.swift */,
+				B2193673297809E8008F871A /* CafeDetail.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,10 +191,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B21936722978085C008F871A /* PinAnnotationNavigationMapView.swift in Sources */,
 				B21936452977B727008F871A /* ContentView.swift in Sources */,
 				B219365E2977DDFD008F871A /* LocationManager.swift in Sources */,
 				B21936622977E3C6008F871A /* PinAnnotationMapView.swift in Sources */,
 				B21936602977E372008F871A /* IdenfiablePlace.swift in Sources */,
+				B2193674297809E8008F871A /* CafeDetail.swift in Sources */,
 				B21936702977E5CB008F871A /* Cafe.swift in Sources */,
 				B21936512977B767008F871A /* MapView.swift in Sources */,
 				B21936432977B727008F871A /* MapKitStudyApp.swift in Sources */,
